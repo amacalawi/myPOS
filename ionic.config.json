@@ -1,0 +1,7 @@
+{
+  "name": "smartPOS",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
