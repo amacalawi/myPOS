@@ -1,5 +1,5 @@
 {
-  "name": "smartPOS",
+  "name": "myPOS",
   "private": true,
   "version": "0.0.1",
   "type": "module",
@@ -22,12 +22,11 @@
     "@ionic/react-router": "^8.0.0",
     "@types/react-router": "^5.1.20",
     "@types/react-router-dom": "^5.3.3",
-    "ionicons": "^7.0.0",
+    "ionicons": "^7.4.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router": "^5.3.4",
-    "react-router-dom": "^5.3.4",
-    "sqlite3": "^5.1.7"
+    "react-router-dom": "^5.3.4"
   },
   "devDependencies": {
     "@capacitor/cli": "7.0.1",
